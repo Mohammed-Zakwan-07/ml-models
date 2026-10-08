@@ -1,0 +1,9 @@
+swim,fly,crawl,class
+Fast,Often,No,Fish
+Slow,Rarely,Yes,Mammal
+Fast,Never,No,Fish
+Slow,Never,Yes,Mammal
+Fast,Often,No,Bird
+Slow,Rarely,No,Bird
+Fast,Rarely,No,Bird
+Slow,Never,Yes,Mammal 
